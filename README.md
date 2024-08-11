@@ -1,9 +1,12 @@
 <h1 align="center">Hi 😎, I'm Ahmad Naser</h1>
 <h3 align="center">Computer Science student at Ben Gurion University</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+- 👨‍💻 All of my projects are available at [https://github.com/Ahmadsmnaser?tab=repositories]
 
 - ☎️ Phone Number **0503148019**
+
 - 📫 Mail Address **Ahmadsmnaser@gmail.com**
+
 <h3 align="left">My Linkedin:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/ahmad-naser-905137217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ahmad-naser-905137217" height="30" width="40" /></a>
