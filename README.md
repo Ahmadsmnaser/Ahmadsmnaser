@@ -1,17 +1,56 @@
 <h1 align="center">Hi 😎, I'm Ahmad Naser</h1>
-<h3 align="center">Computer Science student at Ben Gurion University</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-- 👨‍💻 All of my Projects **[https://github.com/Ahmadsmnaser?tab=repositories]**
+🎓 **B.Sc. in Computer Science – Ben-Gurion University (GPA 83)**  
+💻 **Full-Stack & Security-oriented Software Engineer**  
+🌍 Based in Israel  
 
-- ☎️ Phone Number **0503148019**
+I enjoy building real-world products — especially those focused on  
+**web development, security, operating systems, and distributed systems.**  
+I’m currently seeking my first full-time opportunity in the high-tech industry 🚀  
 
-- 📫 Mail Address **Ahmadsmnaser@gmail.com**
 
-<h3 align="left">My Linkedin:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ahmad-naser-905137217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ahmad-naser-905137217" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 🔥 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🔐 **Chrome Security Extension** | Scans downloaded files using VirusTotal & MetaDefender APIs to detect threats | JS, Chrome APIs |
+| 📝 **Notes App (Full-Stack)** | CRUD app with user auth & REST backend | Node.js, Express, MongoDB, JWT |
+| ⚙️ **xv6 Kernel Enhancements** | Syscall extensions, locks, shared memory, ref-counting | C, QEMU, GDB |
+| 🎮 **Set Game – Multithreading** | Multithreaded game using Java & synchronization | Java |
+
+
+> 📌 *Click into any repo to learn more!*  
+(We'll soon add better README + images for each project 😉)
+
+---
+
+## 🧠 Tech Skills
+
+- **Languages:** C, C++, Java, JavaScript, TypeScript, Python  
+- **Web:** React, Node.js, Express, REST APIs, JWT, MongoDB  
+- **OS / Low-Level:** xv6, QEMU, GDB, Threads, Synchronization  
+- **Security:** VirusTotal API, MetaDefender API  
+- **Tools:** Git, Postman, Linux, Make  
+
+(Currently learning ☁️ AWS)
+
+---
+
+## 🎯 Interests
+
+- Full-Stack Development  
+- Cybersecurity  
+- Distributed systems  
+- Browser extensions  
+- Cloud technologies  
+
+---
+
+## 🤝 Let’s Connect
+
+📧 **Email:** Ahmadsmnaser@gmail.com  
+🔗 **LinkedIn:** <LINK_TO_LINKEDIN>  
+🐙 **GitHub:** github.com/Ahmadsmnaser  
+
