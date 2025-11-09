@@ -51,6 +51,6 @@ I’m currently seeking my first full-time opportunity in the high-tech industry
 ## 🤝 Let’s Connect
 
 📧 **Email:** Ahmadsmnaser@gmail.com  
-🔗 **LinkedIn:** <LINK_TO_LINKEDIN>  
+🔗 **LinkedIn:** https://www.linkedin.com/in/ahmad-naser-905137217/?locale=en_US 
 🐙 **GitHub:** github.com/Ahmadsmnaser  
 
