@@ -1,6 +1,6 @@
 <h1 align="center">Hi 😎, I'm Ahmad Naser</h1>
 
-🎓 **B.Sc. in Computer Science – Ben-Gurion University (GPA 83)**  
+🎓 **B.Sc. in Computer Science – Ben-Gurion University**  
 💻 **Full-Stack & Security-oriented Software Engineer**  
 🌍 Based in Israel  
 
