@@ -1,56 +1,73 @@
-<h1 align="center">Hi 😎, I'm Ahmad Naser</h1>
+<h1 align="center">Hi 👋, I'm Ahmad Naser</h1>
 
 🎓 **B.Sc. in Computer Science – Ben-Gurion University**  
-💻 **Full-Stack & Security-oriented Software Engineer**  
+💻 **Junior Software Engineer | Low-Level & Systems Programming**  
 🌍 Based in Israel  
 
-I enjoy building real-world products — especially those focused on  
-**web development, security, operating systems, and distributed systems.**  
-I’m currently seeking my first full-time opportunity in the high-tech industry 🚀  
+I’m a software engineer with a strong passion for **low-level systems programming**,  
+operating systems, concurrency, and performance-oriented software.
 
+I enjoy working close to the machine — understanding how software interacts with  
+the OS, memory, processes, and hardware — while building **robust, efficient, and reliable systems**.
+
+Currently seeking my **first full-time role** in software engineering, with a focus on  
+**systems, infrastructure, performance, or security-related development** 🚀
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 Featured Projects (Low-Level & Systems First)
 
 | Project | Description | Tech |
-|---------|-------------|------|
-| 🔐 **Chrome Security Extension** | Scans downloaded files using VirusTotal & MetaDefender APIs to detect threats | JS, Chrome APIs |
-| 📝 **Notes App (Full-Stack)** | CRUD app with user auth & REST backend | Node.js, Express, MongoDB, JWT |
-| ⚙️ **xv6 Kernel Enhancements** | Syscall extensions, locks, shared memory, ref-counting | C, QEMU, GDB |
-| 🎮 **Set Game – Multithreading** | Multithreaded game using Java & synchronization | Java |
+|--------|-------------|------|
+| ⚙️ **xv6 Kernel Enhancements** | Extended the xv6 operating system with new system calls, process lifecycle logic, synchronization mechanisms, and controlled shared memory using page tables and reference counting | C, xv6, QEMU, GDB |
+| 🔌 **Client–Server IPC System** | Designed and implemented a custom application-level protocol over TCP, with a multithreaded server capable of handling multiple concurrent clients reliably | Java, TCP/IP, Sockets, Multithreading |
+| 🎮 **Set Game – Multithreaded Engine** | Implemented thread-safe game logic using synchronization primitives and concurrent data structures, focusing on correctness under concurrency | Java, Threads, Locks |
+| 🔐 **Chrome Security Extension** | Implemented file hashing and threat analysis pipelines using external threat-intelligence APIs to classify downloaded files and visited URLs | JavaScript, Chrome APIs, REST |
 
+--
 
-> 📌 *Click into any repo to learn more!*  
-(We'll soon add better README + images for each project 😉)
+## 🧠 Technical Skills
+
+### Languages
+- **C, C++, Java**
+- JavaScript / TypeScript
+- Python (basic)
+
+### Systems & Low-Level
+- Operating Systems concepts
+- Processes, threads, scheduling
+- Locks, synchronization, race conditions
+- Memory management
+- Debugging with **GDB**
+- xv6 (RISC-V), QEMU
+
+### Networking & Infrastructure
+- TCP/IP
+- Client–Server architecture
+- Custom protocols
+- Multithreaded servers
+
+### Tools
+- Linux
+- Git
+- Make
+- QEMU / GDB
+- Postman
 
 ---
 
-## 🧠 Tech Skills
+## 🎯 Professional Interests
 
-- **Languages:** C, C++, Java, JavaScript, TypeScript, Python  
-- **Web:** React, Node.js, Express, REST APIs, JWT, MongoDB  
-- **OS / Low-Level:** xv6, QEMU, GDB, Threads, Synchronization  
-- **Security:** VirusTotal API, MetaDefender API  
-- **Tools:** Git, Postman, Linux, Make  
-
-(Currently learning ☁️ AWS)
-
----
-
-## 🎯 Interests
-
-- Full-Stack Development  
-- Cybersecurity  
-- Distributed systems  
-- Browser extensions  
-- Cloud technologies  
+- Low-Level & Systems Programming  
+- Operating Systems & Kernel Internals  
+- Performance & Optimization  
+- Infrastructure & Distributed Systems  
+- Security-oriented Development  
 
 ---
 
 ## 🤝 Let’s Connect
 
 📧 **Email:** Ahmadsmnaser@gmail.com  
-🔗 **LinkedIn:** www.linkedin.com/in/ahmad-naser-905137217
-🐙 **GitHub:** github.com/Ahmadsmnaser  
-
+🔗 **LinkedIn:** https://www.linkedin.com/in/ahmad-naser-905137217  
+🐙 **GitHub:** https://github.com/Ahmadsmnaser
