@@ -64,12 +64,10 @@ Currently seeking my **first full-time role** in software engineering, with a fo
 - Security-oriented Development  
 
 ---
-
 ## 🤝 Let’s Connect
 
 📧 **Email:** Ahmadsmnaser@gmail.com  
-☎️ **Phone:** 0503148019
+📞 **Phone:** +972-50-314-8019  
 
-🔗 **LinkedIn:** https://www.linkedin.com/in/ahmadsmnaser/
+🔗 **LinkedIn:** https://www.linkedin.com/in/ahmadsmnaser  
 🐙 **GitHub:** https://github.com/Ahmadsmnaser
-
