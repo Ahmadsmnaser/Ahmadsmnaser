@@ -30,7 +30,7 @@ Currently seeking my **first full-time role** in software engineering, with a fo
 ### Languages
 - **C, C++, Java**
 - JavaScript / TypeScript
-- Python (basic)
+- Python
 
 ### Systems & Low-Level
 - Operating Systems concepts
