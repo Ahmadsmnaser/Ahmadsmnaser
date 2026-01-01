@@ -24,7 +24,6 @@ Currently seeking my **first full-time role** in software engineering, with a fo
 | 🎮 **Set Game – Multithreaded Engine** | Implemented thread-safe game logic using synchronization primitives and concurrent data structures, focusing on correctness under concurrency | Java, Threads, Locks |
 | 🔐 **Chrome Security Extension** | Implemented file hashing and threat analysis pipelines using external threat-intelligence APIs to classify downloaded files and visited URLs | JavaScript, Chrome APIs, REST |
 
---
 
 ## 🧠 Technical Skills
 
@@ -71,3 +70,4 @@ Currently seeking my **first full-time role** in software engineering, with a fo
 📧 **Email:** Ahmadsmnaser@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/ahmad-naser-905137217  
 🐙 **GitHub:** https://github.com/Ahmadsmnaser
+☎️ **Phone:** 0503148019
