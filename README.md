@@ -69,6 +69,7 @@ Currently seeking my **first full-time role** in software engineering, with a fo
 
 📧 **Email:** Ahmadsmnaser@gmail.com  
 ☎️ **Phone:** 0503148019
+
 🔗 **LinkedIn:** https://www.linkedin.com/in/ahmad-naser-905137217  
 🐙 **GitHub:** https://github.com/Ahmadsmnaser
 
