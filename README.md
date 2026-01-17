@@ -22,8 +22,7 @@ Currently seeking my **first full-time role** in software engineering, with a fo
 | ⚙️ **xv6 Kernel Enhancements** | Extended the xv6 operating system with new system calls, process lifecycle logic, synchronization mechanisms, and controlled shared memory using page tables and reference counting | C, xv6, QEMU, GDB |
 | 🔌 **Client–Server IPC System** | Designed and implemented a custom application-level protocol over TCP, with a multithreaded server capable of handling multiple concurrent clients reliably | Java, TCP/IP, Sockets, Multithreading |
 | 🎮 **Set Game – Multithreaded Engine** | Implemented thread-safe game logic using synchronization primitives and concurrent data structures, focusing on correctness under concurrency | Java, Threads, Locks |
-|🦅 **HawkAlloc – Custom Memory Allocator (Linux User-Space)** | Designed and implemented a custom dynamic memory allocator from scratch, providing user-space implementations of malloc, free, calloc, and realloc.
-The allocator manages memory using an arena obtained via mmap, maintains explicit block metadata, and uses a doubly linked free list with a first-fit allocation strategy. | C, Linux, mmap, Memory Management, Free Lists, Heap Allocation, Debugging, Make |
+|🦅 **HawkAlloc – Custom Memory Allocator (Linux User-Space)** | Designed and implemented a custom dynamic memory allocator from scratch, providing user-space implementations of malloc, free, calloc, and realloc | C, Linux, mmap, Memory Management, Free Lists, Heap Allocation, Debugging, Make |
 | 🔐 **Chrome Security Extension** | Implemented file hashing and threat analysis pipelines using external threat-intelligence APIs to classify downloaded files and visited URLs | JavaScript, Chrome APIs, REST |
 
 
