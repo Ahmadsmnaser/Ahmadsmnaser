@@ -51,6 +51,7 @@ Currently seeking my **first full-time role** in software engineering, with a fo
 - Linux
 - Git
 - Make
+- Docker
 - QEMU / GDB
 - Postman
 
