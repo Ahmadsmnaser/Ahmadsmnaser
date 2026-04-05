@@ -68,10 +68,12 @@ Currently seeking my **first full-time role** in software engineering, with a fo
 ---
 ## 🤝 Let’s Connect
 
-📧 **Email:** Ahmadsmnaser@gmail.com  
+📧 **Email:** Ahmadsmnaser@gmail.com
+
 📞 **Phone:** +972-50-314-8019  
 
-🔗 **LinkedIn:** https://www.linkedin.com/in/ahmadsmnaser  
+🔗 **LinkedIn:** https://www.linkedin.com/in/ahmadsmnaser
+
 🐙 **GitHub:** https://github.com/Ahmadsmnaser
 
 🤓 **Personal WebSite** https://personal-websiteahmad.vercel.app/
