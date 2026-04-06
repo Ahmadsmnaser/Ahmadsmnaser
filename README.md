@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahmad Naser</h1>
 
-🎓 **B.Sc. in Computer Science – Ben-Gurion University**
-💻 **Software Engineer | Low-Level & Systems Programming**
-🌍 Based in Israel
+🎓 **B.Sc. in Computer Science – Ben-Gurion University**<br>
+💻 **Software Engineer | Low-Level & Systems Programming**<br>
+🌍 Based in Israel<br>
 
 I work close to the machine — kernel internals, memory management, syscall tracing, and scheduling.
 I care about understanding how software actually runs: how the scheduler picks the next task, how memory gets allocated and freed, how a process call crosses into the kernel.
