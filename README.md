@@ -4,7 +4,7 @@
 💻 **Software Engineer | Low-Level & Systems Programming**
 🌍 Based in Israel
 
-I'm a software engineer who works close to the machine — operating systems, kernel internals, memory management, and system call tracing.
+I work close to the machine — kernel internals, memory management, syscall tracing, and scheduling.
 I care about understanding how software actually runs: how the scheduler picks the next task, how memory gets allocated and freed, how a process call crosses into the kernel.
 
 Currently a **Software Engineering Intern at Siraj Technologies**, and actively seeking my first full-time role in **systems, infrastructure, or performance engineering**.
@@ -15,7 +15,7 @@ Currently a **Software Engineering Intern at Siraj Technologies**, and actively 
 
 ### 🧠 Scheduler Study — Kernel + Userspace
 
-A two-part study on CPU scheduling, built from the ground up.
+A two-part study on CPU scheduling built from the ground up.
 
 | Project | What it does | Tech |
 |---|---|---|
@@ -30,29 +30,44 @@ A two-part study on CPU scheduling, built from the ground up.
 
 A lightweight Linux system call tracer built on `ptrace`, inspired by `strace`.
 
-- Traces syscall entry and exit with number, name, arguments, return value, and errno
+- Traces syscall entry and exit: number, name, up to 6 arguments, return value, errno
 - x86_64 syscall table with named mapping (`write`, `openat`, `execve`, ...)
 - No external dependencies — pure C, pure Linux
 - Tested against real programs: file I/O, heap allocation, process execution
 
-> Demonstrates hands-on understanding of Linux syscall mechanics, ptrace-based process control, and register-level ABI reasoning.
+> Hands-on understanding of Linux syscall mechanics, ptrace-based process control, and x86_64 ABI register layout.
 
 ---
 
 ### 🦅 [HawkAlloc — Custom Memory Allocator](https://github.com/Ahmadsmnaser/HawkAlloc)
 
-A userspace dynamic memory allocator implementing `malloc`, `free`, `calloc`, and `realloc` from scratch using `mmap` and free list management.
+A userspace dynamic memory allocator implementing `malloc`, `free`, `calloc`, and `realloc` from scratch.
+
+- Arena-based allocation via `mmap`
+- Doubly-linked free list with first-fit search
+- Block splitting and forward coalescing to reduce fragmentation
+- 10,000-iteration stress test with pattern verification and corruption detection
+- Validated with AddressSanitizer
 
 ---
 
-### Other Projects
+### ⚙️ [xv6 Kernel Enhancements](https://github.com/Ahmadsmnaser/Operating-Systems)
 
-| Project | Description | Tech |
-|---|---|---|
-| ⚙️ **xv6 Kernel Enhancements** | Extended xv6 with new system calls, process lifecycle logic, synchronization, and shared memory via page tables and reference counting | C, xv6, QEMU, GDB |
-| 🔌 **Client–Server IPC System** | Custom application-level protocol over TCP with a multithreaded server | Java, TCP/IP, Sockets |
-| 🎮 **Set Game – Multithreaded Engine** | Thread-safe game logic with synchronization primitives and concurrent data structures | Java, Threads, Locks |
-| 🔐 **Chrome Security Extension** | File hashing and threat analysis pipeline using external threat-intelligence APIs | JavaScript, Chrome APIs, REST |
+Three independent kernel-level extensions on the xv6 teaching OS:
+
+- **System calls:** Added new syscalls with full user→kernel data transfer and argument validation
+- **Shared memory:** Implemented cross-process shared memory using page table manipulation and reference counting
+- **Synchronization:** Peterson locks, sleep/wakeup primitives, and condition variables — debugged under QEMU/GDB to eliminate race conditions
+
+---
+
+### 🔌 [SPL — System Programming Projects](https://github.com/Ahmadsmnaser/SPL-System-Programming-Laboratory)
+
+Three systems-focused projects in Java and C++:
+
+- **TFTP Server/Client:** Binary protocol over TCP, thread-per-client architecture, concurrent file upload/download with server-wide notifications
+- **Set Card Game:** Multithreaded game engine with thread-safe state management and synchronization primitives
+- **Warehouse Management System:** OOP design in C++ with strict Rule-of-5 memory management and zero leaks
 
 ---
 
@@ -63,19 +78,20 @@ A userspace dynamic memory allocator implementing `malloc`, `free`, `calloc`, an
 - Python, JavaScript / TypeScript
 
 ### Systems & Low-Level
-- Linux kernel internals — scheduler (`fair.c`, `core.c`), `task_struct`, runqueues
+- Linux kernel internals — scheduler (`fair.c`, `core.c`), `task_struct`, runqueues, vruntime
 - `ptrace`, syscall tracing, x86_64 ABI
-- Memory management — allocators, `mmap`, heap layout
+- Memory management — allocators, `mmap`, free lists, heap layout, coalescing
 - Processes, threads, scheduling, preemption
-- Locks, synchronization, race conditions
-- Debugging with **GDB**, **Valgrind**, **AddressSanitizer**
-- QEMU, `ftrace`, `trace_printk`
+- Locks, synchronization, race conditions, Peterson algorithm
+- xv6 kernel — page tables, reference counting, trap handling
+- Debugging: **GDB**, **Valgrind**, **AddressSanitizer**, **UBSan**
+- `ftrace`, `trace_printk`, QEMU
 
 ### Backend & Infrastructure
 - Java, Spring Boot
-- TCP/IP, client–server architecture
+- TCP/IP, binary protocols, client–server architecture
 - Docker, Azure DevOps
-- REST APIs
+- REST APIs, Cucumber/BDD
 
 ### Tools
 - Linux, Git, Make
