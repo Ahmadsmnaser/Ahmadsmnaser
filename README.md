@@ -109,8 +109,8 @@ Ideally somewhere that cares about how things actually work under the hood.
 
 ## 🤝 Let's Connect
 
-📧 **Email:** Ahmadsmnaser@gmail.com
-📞 **Phone:** +972-50-314-8019
-🔗 **LinkedIn:** https://www.linkedin.com/in/ahmadsmnaser
-🐙 **GitHub:** https://github.com/Ahmadsmnaser
-🌐 **Website:** https://personal-websiteahmad.vercel.app/
+📧 **Email:** Ahmadsmnaser@gmail.com<br>
+📞 **Phone:** +972-50-314-8019<br>
+🔗 **LinkedIn:** https://www.linkedin.com/in/ahmadsmnaser<br>
+🐙 **GitHub:** https://github.com/Ahmadsmnaser<br>
+🌐 **Website:** https://personal-websiteahmad.vercel.app/<br>
