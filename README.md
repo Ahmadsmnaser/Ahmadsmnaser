@@ -26,7 +26,7 @@ A two-part study on CPU scheduling built from the ground up.
 
 ---
 
-### 🕵️ [SysPeek — Linux Syscall Tracer](https://github.com/Ahmadsmnaser/syspeek)
+### 🕵️ [SysPeek — Linux Syscall Tracer](https://github.com/Ahmadsmnaser/Syspeek-Syscall-Tracing-Tool)
 
 A lightweight Linux system call tracer built on `ptrace`, inspired by `strace`.
 
